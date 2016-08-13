@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/icarusion/vue-vueRouter-webpack.git"
+    "url": "https://github.com/Baoyx007/vue-compoent-practice"
   },
-  "author": "Aresn",
+  "author": "Haven",
   "license": "MIT",
   "dependencies": {
     "echarts": "^3.2.2",
